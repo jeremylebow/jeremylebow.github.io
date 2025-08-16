@@ -5,12 +5,9 @@ title: Research
 
 <h1 class = "pageTitle"> Research </h1>
 
-
-<b> Community Land Trusts and Neighborhood Outcomes </b> with [Omer Ali](https://sites.google.com/site/omeraaali/)  <a href="/Ali_Raviola_CLT.pdf"> (Draft) </a>
-
+<b> Immigration and Occupational Downgrading in Colombia (Published in _Journal of Development Economics_, 2024) ([Paper](https://linkinghub.elsevier.com/retrieve/pii/S0304387823001207), <a href="/Ali_Raviola_CLT.pdf"> Replication Files </a>, Featured in [Development Impact](https://blogs.worldbank.org/en/impactevaluations/economic-consequences-migrant-occupational-downgrading-colombia-guest-post-jeremy))
 <p align="left">
-This paper studies the effect of Community Land Trusts (CLTs) on neighborhood composition and affordability. CLTs are non-profit organizations that buy and resell houses at subsidized prices with a unique feature: the trust retains ownership of the land and leases it to homeowners with long-term agreements to limit resale price and maintain affordability. CLTs have gained renewed attention as a possible solution to the shrinking stock of affordable housing, in part because they also create pathways from renting to homeownership. An important question is whether a CLT - aside from making the purchased dwelling permanently affordable - generates spillover effects on surrounding house prices through changes in neighborhood amenities. We
-create a novel dataset of CLT housing transactions from 2000 to 2016 and combine it with panel data on individual migration histories to estimate the effects of CLT purchases on home prices and displacement in the surrounding neighborhood. We find evidence that neighborhood housing values decrease in the vicinity of CLT properties and so does the probability of a household moving out of the neighborhood, especially for Black and Hispanic households. These results suggest that CLTs help current resident traditionally at higher risk of displacement to remain in their neighborhood.
+Between 2015-2019, approximately 1.8 million Venezuelans fled an economic and political crisis into neighboring Colombia. Despite being well-educated, these migrants disproportionately entered occupations that typically employ less-educated Colombians. This paper examines the economic consequences of migrant occupational downgrading using a model of labor demand with imperfect substitutability between migrants and natives. The findings underscore the importance of strengthening migrant-job matches to boost productivity and curb inequality, particularly in developing country contexts.
 </p>
 
 <br>
