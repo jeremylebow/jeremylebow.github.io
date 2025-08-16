@@ -1,28 +1,27 @@
 # Your Name or Company
-title: Sarah Raviola
+title: Jeremy Lebow
 
 # Description of your website. This is used for social sharing.
-description:  I am a Ph.D. candidate in economics at Duke University. My research lies at the intersection of urban and public economics, with an emphasis on the provision of affordable housing in the US
+description:  I am an economist at the World Bank’s Social Protection & Jobs Global Practice.
 
 # A brief blurb about yourself
-content: I am a Ph.D. candidate in economics at Duke University. My research lies at the intersection of urban and public economics, with an emphasis on the provision of affordable housing in the US.
-
+content: My name is Jeremy Lebow and I am an economist at the World Bank’s Social Protection & Jobs Global Practice, with previous experience in the Poverty & Equity Practice for Africa East. I hold a Ph.D. and M.A. in Economics from Duke University. My research and policy work lie at the intersection of development, labor, and migration economics, with an emphasis on the economic and social effects of large migration flows and the causes and consequences of gender inequality in developing countries.
 
 # Add your social links
 social:
   - platform: email
-    url: mailto:sarah.raviola@duke.edu
-  - platform: twitter
-    url: https://twitter.com/sarahraviola
+    url: mailto:jlebow@worldbank.org
+  - platform: X
+    url: https://X.com/jeremy_lebow
   - platform: linkedin
-    url: https://www.linkedin.com/in/sarah-raviola
+    url: https://www.linkedin.com/in/jeremy-lebow-31388087
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
 # baseurl: "/uni" 
 markdown: kramdown
 sharing_image: share.jpg
-google_analytics: "G-QJW8913FZV" # google analytics tracking
+# google_analytics: "G-QJW8913FZV" # google analytics tracking //UPDATE IF YOU WANT GOOGLE ANALYTICS
 
 sass:
     sass_dir: ./assets/ccs
