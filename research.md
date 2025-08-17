@@ -31,7 +31,7 @@ Short abstract: This paper examines the effects of the Venezuelan exodus on migr
   <b>The Labor Market Effects of Venezuelan Migration to Colombia: Reconciling Conflicting Results</b>, Published in <i>IZA Journal of Development and Migration</i>, 2022
   (<a href="https://sciendo.com/article/10.2478/izajodm-2022-0005" target="_blank" rel="noopener noreferrer">Paper</a>, 
   <a href="uploads/lebow2022.pdf" target="_blank" rel="noopener noreferrer">Pre-Publication Manuscript</a>, 
-  <a href="uploads/lebow2022_replication_files.zip" target="_blank" rel="noopener noreferrer">Replication Files</a>, 
+  <a href="uploads/lebow2022_replication_files.zip" target="_blank" rel="noopener noreferrer">Replication Files</a>)
   <br style="line-height:0.7;">
 Short abstract: The recent mass migration of Venezuelans to Colombia offers a natural experiment for studying migration’s labor market effects in developing countries. While prior research consistently finds wage declines for less-educated Colombians in the informal sector, estimates of the size and significance of these effects vary widely despite similar data and methods. This paper identifies the empirical specification choices driving these discrepancies and provides robust estimates of Venezuelan migration’s impact on labor market outcomes in Colombia.
 </p>
