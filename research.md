@@ -5,11 +5,11 @@ title: Research
 
 <h1 class = "pageTitle"> Research </h1>
 
-<b style="font-size:24px;"> Publications </b>
+<strong style="font-size:24px;"> Publications </strong>
 <br>
 
 <p>
-  <b>Immigration and Occupational Downgrading in Colombia</b>, Published in <i>Journal of Development Economics</i>, 2024 
+  <strong>Immigration and Occupational Downgrading in Colombia</strong>, Published in <i>Journal of Development Economics</i>, 2024 
   (<a href="https://linkinghub.elsevier.com/retrieve/pii/S0304387823001207" target="_blank" rel="noopener noreferrer">Paper</a>, 
   <a href="uploads/lebow2024.pdf" target="_blank" rel="noopener noreferrer">Pre-Publication Manuscript</a>, 
   <a href="https://drive.google.com/file/d/1aoSbZxrzewMItZquxP9tewm8y_EFPwzS/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Replication Files</a>, 
@@ -19,7 +19,7 @@ title: Research
 </p>
 
 <p>
-  <b>Migrant Exposure and Anti-Migrant Sentiment: The Case of the Venezuelans Exodus</b> with Jonathan Moreno-Medina, Salma Mousa, and Horacio Coral, Published in <i>Journal of Public Economics</i>, 2024 
+  <strong>Migrant Exposure and Anti-Migrant Sentiment: The Case of the Venezuelans Exodus</strong> with Jonathan Moreno-Medina, Salma Mousa, and Horacio Coral, Published in <i>Journal of Public Economics</i>, 2024 
   (<a href="https://www.sciencedirect.com/science/article/pii/S0047272724001051" target="_blank" rel="noopener noreferrer">Paper</a>, 
   <a href="uploads/LMMC2024.pdf" target="_blank" rel="noopener noreferrer">Pre-Publication Manuscript</a>, 
   Featured in <a href="https://voxdev.org/topic/migration-urbanisation/do-local-experiences-or-national-narratives-drive-anti-migrant" target="_blank" rel="noopener noreferrer">VoxDev</a>) 
@@ -28,7 +28,7 @@ title: Research
 </p>
 
 <p>
-  <b>The Labor Market Effects of Venezuelan Migration to Colombia: Reconciling Conflicting Results</b>, Published in <i>IZA Journal of Development and Migration</i>, 2022
+  <strong>The Labor Market Effects of Venezuelan Migration to Colombia: Reconciling Conflicting Results</strong>, Published in <i>IZA Journal of Development and Migration</i>, 2022
   (<a href="https://sciendo.com/article/10.2478/izajodm-2022-0005" target="_blank" rel="noopener noreferrer">Paper</a>, 
   <a href="uploads/lebow2022.pdf" target="_blank" rel="noopener noreferrer">Pre-Publication Manuscript</a>, 
   <a href="uploads/lebow2022_replication_files.zip" target="_blank" rel="noopener noreferrer">Replication Files</a>)
