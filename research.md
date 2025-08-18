@@ -26,7 +26,7 @@ title: Research
   <u>Short Abstract:</u> This paper examines the effects of the Venezuelan exodus on migrant sentiment in Latin America as measured in survey responses and social media posts, and explores potential mechanisms including labor market competition, public good scarcity, crime, and increased migrant–native contact. While countries receiving the largest influxes of Venezuelans show substantial declines in migrant sentiment, we find no evidence that within-country variation in migrant locations affects sentiment. This suggests that anti-migrant attitudes are driven more by national-level narratives than by direct local experiences with migrants.
 </p>
 
-<b>The Labor Market Effects of Venezuelan Migration to Colombia: Reconciling Conflicting Results</b>, Published in <i>IZA Journal of Development and Migration</i>, 2022
+<b>The Labor Market Effects of Venezuelan Migration to Colombia: Reconciling Conflicting Results</b>, Published in <i>IZA Journal of Development and Migration</i>, 2022XXX
   (<a href="https://sciendo.com/article/10.2478/izajodm-2022-0005" target="_blank" rel="noopener noreferrer">Paper</a>, 
   <a href="uploads/lebow2022.pdf" target="_blank" rel="noopener noreferrer">Pre-Publication Manuscript</a>, 
   <a href="uploads/lebow2022_replication_files.zip" target="_blank" rel="noopener noreferrer">Replication Files</a>)<br style="line-height:0.7;">
