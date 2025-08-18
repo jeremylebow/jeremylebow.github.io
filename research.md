@@ -9,7 +9,7 @@ title: Research
 <br>
 
 <p>
-  <strong>Immigration and Occupational Downgrading in Colombia</strong>, Published in <i>Journal of Development Economics</i>, 2024 
+  <strong style="font-weight:700; font-family:'Open Sans', sans-serif;">Immigration and Occupational Downgrading in Colombia</strong>, Published in <i>Journal of Development Economics</i>, 2024 
   (<a href="https://linkinghub.elsevier.com/retrieve/pii/S0304387823001207" target="_blank" rel="noopener noreferrer">Paper</a>, 
   <a href="uploads/lebow2024.pdf" target="_blank" rel="noopener noreferrer">Pre-Publication Manuscript</a>, 
   <a href="https://drive.google.com/file/d/1aoSbZxrzewMItZquxP9tewm8y_EFPwzS/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Replication Files</a>, 
