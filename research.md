@@ -39,7 +39,7 @@ title: Research
 
 <p>
   <strong style="font-weight:700; font-family:'Open Sans', sans-serif;">New Evidence on Inequality of Opportunity in Sub-Saharan Africa: More Unequal Than We Thought</strong> with Aziz Atamanov, Facundo Cuevas, and Daniel Gerszon Mahler, R&R in <i>Review of Development Economics</i>
-  (<a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099558203182421649/idu1a3c568111b02514f9d19e221936be7486403" target="_blank" rel="noopener noreferrer">WB Working Paper</a>, 
+  (<a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099558203182421649/idu1a3c568111b02514f9d19e221936be7486403" target="_blank" rel="noopener noreferrer">Working Paper</a>, 
   <a href="https://blogs.worldbank.org/en/developmenttalk/unveiling-inequality-of-opportunity-in-sub-saharan-africa--new-i" target="_blank" rel="noopener noreferrer">Blog Post</a>) 
   <br>
   <u>Short Abstract:</u> Unequal access to economic opportunities due to inherited characteristics, such as birthplace, parents’ education, and ethnicity, is widely regarded as both morally undesirable and bad for economic growth. This paper estimates inequality of opportunity, a measure of the extent to which inherited characteristics explain inequality, across 18 countries in Sub-Saharan Africa using recent machine learning methods. The findings show that inequality of opportunity in Sub-Saharan Africa is stark and more pronounced than previously estimated.
