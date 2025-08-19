@@ -5,6 +5,7 @@ title: Research
 
 <h1 class = "pageTitle"> Research </h1>
 
+
 <strong style="font-size:24px;"> Publications </strong>
 
 <p>
@@ -38,6 +39,41 @@ title: Research
 
 <strong style="font-size:24px;"> Working Papers </strong>
 
+<p>
+  <strong style="font-weight:700; font-family:'Open Sans', sans-serif;">New Evidence on Inequality of Opportunity in Sub-Saharan Africa: More Unequal Than We Thought</strong> with Aziz Atamanov, Facundo Cuevas, and Daniel Gerszon Mahler, R&R in <i>Review of Development Economics</i>
+  (<a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099558203182421649/idu1a3c568111b02514f9d19e221936be7486403" target="_blank" rel="noopener noreferrer">WB Working Paper</a>, 
+  Featured in <a href="https://blogs.worldbank.org/en/developmenttalk/unveiling-inequality-of-opportunity-in-sub-saharan-africa--new-i" target="_blank" rel="noopener noreferrer">WB Blog</a>) 
+  <br>
+  <u>Short Abstract:</u> Unequal access to economic opportunities due to inherited characteristics, such as birthplace, parents’ education, and ethnicity, is widely regarded as both morally undesirable and bad for economic growth. This paper estimates inequality of opportunity, a measure of the extent to which inherited characteristics explain inequality, across 18 countries in Sub-Saharan Africa using recent machine learning methods. The findings show that inequality of opportunity in Sub-Saharan Africa is stark and more pronounced than previously estimated.
+</p>
+
+
 <strong style="font-size:24px;"> Discussion Papers </strong>
 
+<p>
+  <strong style="font-weight:700; font-family:'Open Sans', sans-serif;">Refugees and Social Assistance in Low- and Middle-Income Countries: A Review of Operational Experiences</strong> with Alfredo Manfredini Böhm, Pablo Acosta, and Emanuela Migliaccio, 2025
+  (<a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099657307162539630" target="_blank" rel="noopener noreferrer">WB Social Protection Discussion Paper</a>, 
+  <br>
+  <u>Short Abstract:</u> Low- and middle-income countries host the majority of the world’s refugees, who often live below the poverty line in underserved host communities. In response, international institutions such as the World Bank and the European Union have invested billions of dollars in social assistance programs for refugees and host communities. This paper distills lessons from major development investments and reviews the broader evidence on integrating refugees and host communities into national social protection systems.
+</p>
+
+<p>
+  <strong style="font-weight:700; font-family:'Open Sans', sans-serif;">Skills Systems for Adults and Out-of-School Youth: A Technical Note</strong> with Eliana Carranza and Xiaoyan Liang, 2025
+  (<a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099071625165531148" target="_blank" rel="noopener noreferrer">WB Social Protection Discussion Paper</a>, 
+  <br>
+  <u>Short Abstract:</u> Amid rapid labor market changes and aging workforces, countries need institutionalized programs and services that support lifelong skill development and utilization, from the school-to-work transition through adulthood. This technical note presents a conceptual framework for building skills systems that promote lifelong learning and employment for adults and out-of-school youth, alongside a review of relevant literature and examples from countries at varying stages of economic development.
+</p>
+
+
 <strong style="font-size:24px;"> Works in Progress </strong>
+
+<p>
+  <strong style="font-weight:700; font-family:'Open Sans', sans-serif;">Intended and Unintended Consequences of a De Facto Inheritance Reform</strong> with Sabrin Beg, Erica Field, Suzanna Khalifa, and Kate Vyborny
+</p>
+
+<p>
+  <strong style="font-weight:700; font-family:'Open Sans', sans-serif;">Parenthood, Gender Wage Gaps, and Labor Market Outcomes in Indonesia</strong> with Duncan Thomas, Daniel Yi Xu, and Xiao Yu Wang
+</p>
+
+
+
