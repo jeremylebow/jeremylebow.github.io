@@ -6,7 +6,6 @@ title: Research
 <h1 class = "pageTitle"> Research </h1>
 
 <strong style="font-size:24px;"> Publications </strong>
-<br>
 
 <p>
   <strong style="font-weight:700; font-family:'Open Sans', sans-serif;">Immigration and Occupational Downgrading in Colombia</strong>, Published in <i>Journal of Development Economics</i>, 2024 
@@ -35,11 +34,8 @@ title: Research
 </p>
 
 
-<b> Working Papers </b>
-<br>
+<strong style="font-size:24px;"> Working Papers </strong>
 
-<b> Discussion Papers </b>
-<br>
+<strong style="font-size:24px;"> Discussion Papers </strong>
 
-<b> Works in Progress </b>
-<br>
+<strong style="font-size:24px;"> Works in Progress </strong>
