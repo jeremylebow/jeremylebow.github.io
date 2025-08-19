@@ -22,7 +22,7 @@ title: Research
   (<a href="https://www.sciencedirect.com/science/article/pii/S0047272724001051" target="_blank" rel="noopener noreferrer">Paper</a>, 
   <a href="uploads/LMMC2024.pdf" target="_blank" rel="noopener noreferrer">Pre-Publication Manuscript</a>, 
   Featured in <a href="https://voxdev.org/topic/migration-urbanisation/do-local-experiences-or-national-narratives-drive-anti-migrant" target="_blank" rel="noopener noreferrer">VoxDev</a>) 
-  <br style="line-height:0.3;">
+  <br>
   <u>Short Abstract:</u> This paper examines the effects of the Venezuelan exodus on migrant sentiment in Latin America as measured in survey responses and social media posts, and explores potential mechanisms including labor market competition, public good scarcity, crime, and increased migrant–native contact. While countries receiving the largest influxes of Venezuelans show substantial declines in migrant sentiment, we find no evidence that within-country variation in migrant locations affects sentiment. This suggests that anti-migrant attitudes are driven more by national-level narratives than by direct local experiences with migrants.
 </p>
 
@@ -31,7 +31,7 @@ title: Research
   (<a href="https://sciendo.com/article/10.2478/izajodm-2022-0005" target="_blank" rel="noopener noreferrer">Paper</a>, 
   <a href="uploads/lebow2022.pdf" target="_blank" rel="noopener noreferrer">Pre-Publication Manuscript</a>, 
   <a href="uploads/lebow2022_replication_files.zip" target="_blank" rel="noopener noreferrer">Replication Files</a>)
-  <br style="line-height:0.7;">
+  <br>
   <u>Short Abstract:</u> The recent mass migration of Venezuelans to Colombia offers a natural experiment for studying migration’s labor market effects in developing countries. While prior research consistently finds wage declines for less-educated Colombians in the informal sector, estimates of the size and significance of these effects vary widely despite similar data and methods. This paper identifies the empirical specification choices driving these discrepancies and provides robust estimates of Venezuelan migration’s impact on labor market outcomes in Colombia.
 </p>
 
