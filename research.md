@@ -36,7 +36,7 @@ title: Research
 </p>
 
 <p>
-  <strong style="font-weight:700; font-family:'Open Sans', sans-serif;">Inequality of Opportunity in Sub-Saharan Africa: New Evidence from 18 Countries</strong> with Aziz Atamanov, Facundo Cuevas, and Daniel Gerszon Mahler, Forthcoming in <i>Review of Development Economics</i>, 2026
+  <strong style="font-weight:700; font-family:'Open Sans', sans-serif;">Inequality of Opportunity in Sub-Saharan Africa: New Evidence from 18 Countries</strong> with Aziz Atamanov, Facundo Cuevas, and Daniel Gerszon Mahler, Published in <i>Review of Development Economics</i>, 2026
   (<a href="https://onlinelibrary.wiley.com/doi/10.1111/rode.70112" target="_blank" rel="noopener noreferrer">Paper</a>, 
   <a href="https://blogs.worldbank.org/en/developmenttalk/unveiling-inequality-of-opportunity-in-sub-saharan-africa--new-i" target="_blank" rel="noopener noreferrer">Blog Post</a>) 
   <br>
