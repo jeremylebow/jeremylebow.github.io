@@ -35,11 +35,9 @@ title: Research
   <u>Short Abstract:</u> The recent mass migration of Venezuelans to Colombia offers a natural experiment for studying migration’s labor market effects in developing countries. While prior research consistently finds wage declines for less-educated Colombians in the informal sector, estimates of the size and significance of these effects vary widely despite similar data and methods. This paper identifies the empirical specification choices driving these discrepancies and provides robust estimates of Venezuelan migration’s impact on labor market outcomes in Colombia.
 </p>
 
-<strong style="font-size:24px;"> Working Papers </strong>
-
 <p>
-  <strong style="font-weight:700; font-family:'Open Sans', sans-serif;">New Evidence on Inequality of Opportunity in Sub-Saharan Africa: More Unequal Than We Thought</strong> with Aziz Atamanov, Facundo Cuevas, and Daniel Gerszon Mahler, R&R in <i>Review of Development Economics</i>
-  (<a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099558203182421649/idu1a3c568111b02514f9d19e221936be7486403" target="_blank" rel="noopener noreferrer">Working Paper</a>, 
+  <strong style="font-weight:700; font-family:'Open Sans', sans-serif;">Inequality of Opportunity in Sub-Saharan Africa: New Evidence from 18 Countries</strong> with Aziz Atamanov, Facundo Cuevas, and Daniel Gerszon Mahler, Forthcoming in <i>Review of Development Economics</i>, 2026
+  (<a href="https://onlinelibrary.wiley.com/doi/10.1111/rode.70112" target="_blank" rel="noopener noreferrer">Paper</a>, 
   <a href="https://blogs.worldbank.org/en/developmenttalk/unveiling-inequality-of-opportunity-in-sub-saharan-africa--new-i" target="_blank" rel="noopener noreferrer">Blog Post</a>) 
   <br>
   <u>Short Abstract:</u> Unequal access to economic opportunities due to inherited characteristics, such as birthplace, parents’ education, and ethnicity, is widely regarded as both morally undesirable and bad for economic growth. This paper estimates inequality of opportunity, a measure of the extent to which inherited characteristics explain inequality, across 18 countries in Sub-Saharan Africa using recent machine learning methods. The findings show that inequality of opportunity in Sub-Saharan Africa is stark and more pronounced than previously estimated.
