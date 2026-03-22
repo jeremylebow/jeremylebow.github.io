@@ -11,8 +11,6 @@ content: My name is Jeremy Lebow and I am an economist at the World Bank’s <a 
 social:
   - platform: email
     url: mailto:jlebow@worldbank.org
-  - platform: X
-    url: https://X.com/jeremy_lebow
   - platform: linkedin
     url: https://www.linkedin.com/in/jeremy-lebow-31388087
 
