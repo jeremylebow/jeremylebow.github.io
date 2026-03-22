@@ -47,14 +47,14 @@ title: Research
 
 <p>
   <strong style="font-weight:700; font-family:'Open Sans', sans-serif;">Refugees and Social Assistance in Low- and Middle-Income Countries: A Review of Operational Experiences</strong> with Alfredo Manfredini Böhm, Pablo Acosta, and Emanuela Migliaccio, 2025
-  (<a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099657307162539630" target="_blank" rel="noopener noreferrer">WB Social Protection Discussion Paper</a>)
+  (<a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099657307162539630" target="_blank" rel="noopener noreferrer">Paper</a>)
   <br>
   <u>Short Abstract:</u> Low- and middle-income countries host the majority of the world’s refugees, who often live below the poverty line in underserved host communities. In response, international institutions such as the World Bank and the European Union have invested billions of dollars in social assistance programs for refugees and host communities. This paper distills lessons from major development investments and reviews the broader evidence on integrating refugees and host communities into national social protection systems.
 </p>
 
 <p>
   <strong style="font-weight:700; font-family:'Open Sans', sans-serif;">Skills Systems for Adults and Out-of-School Youth: A Technical Note</strong> with Eliana Carranza and Xiaoyan Liang, 2025
-  (<a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099071625165531148" target="_blank" rel="noopener noreferrer">WB Social Protection Discussion Paper</a>)
+  (<a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099071625165531148" target="_blank" rel="noopener noreferrer">Paper</a>)
   <br>
   <u>Short Abstract:</u> Amid rapid labor market changes and aging workforces, countries need institutionalized programs and services that support lifelong skill development and utilization, from the school-to-work transition through adulthood. This technical note presents a conceptual framework for building skills systems that promote lifelong learning and employment for adults and out-of-school youth, alongside a review of relevant literature and examples from countries at varying stages of economic development.
 </p>
