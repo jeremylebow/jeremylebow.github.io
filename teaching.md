@@ -17,4 +17,4 @@ title: Teaching
   <li>Teaching Assistant and Guest Lecturer for Prof. Erica Field, Spring 2021-2022, Average student evaluation: 4/4 (<a href="uploads/Lebow_Reviews_Econ335_Spring2021.pdf" target="_blank" rel="noopener noreferrer">Read them here</a>) </li>
 </ul>
 
-<h5> <a href="uploads/Lebow_teaching_statement.pdf" target="_blank" rel="noopener noreferrer">Teaching Statement</a> </h5>
+<h4> <a href="uploads/Lebow_teaching_statement.pdf" target="_blank" rel="noopener noreferrer">Teaching Statement</a> </h4>
