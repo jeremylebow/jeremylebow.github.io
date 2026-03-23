@@ -6,15 +6,15 @@ title: Teaching
 <h1 class = "pageTitle"> Teaching </h1>
 <br>
 
-<h4> Duke University, School of Law </h4>
+<h4> Introduction to Econometrics, Duke University </h4>
 
 <ul>
-  <li>Fall 2020 and Fall 2021: <i> Law319 - Analytical Methods for Lawyers</i> (Teaching Assistant for professor John de Figueiredo) </li>
+  <li> Primary Instructor, Summer 2021, Average student evaluation: 4.5/5 </li>
+  <li> Teaching Assistant for Prof. Duncan Thomas, Fall 2017-2021, Average student evaluation: 3.8/4 </li>
 </ul>
 
-<h4> Duke University, Department of Economics </h4>
+<h4> Economics of Global Health, Duke University </h4>
 <ul>
-  <li>Fall 2019: <i>Econ210 - Intermediate Macroeconomics</i> (Head Teaching Assistant for professor Cosmin Ilut) - Average student evaluation: 4 /4</li>
-  <li> Spring 2019: <i>Econ210 - Intermediate Macroeconomics</i> (Head Teaching Assistant for professor Kyle Jurado) - Average student evaluation: 4/4 </li>
-  <li> Fall 2018: <i>Econ210 - Intermediate Macroeconomics</i>  (Head Teaching Assistant for professor Andrea Lanteri) - Average student evaluation: 2.6/4 </li>
+  <li>Teaching Assistant and Guest Lecturer for Prof. Erica Field, Spring 2021-2022, Average student evaluation: 4/4</li>
 </ul>
+
