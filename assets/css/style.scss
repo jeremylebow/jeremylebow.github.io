@@ -480,7 +480,7 @@ body {
   flex-direction: column;
 
   @include min(md) {
-    font-size: 112.5%;
+	font-size: 100%;
   }
 
   p,
