@@ -61,7 +61,7 @@ title: Research
 </p>
 
 <p>
-<strong style="font-weight:700; font-family:'Open Sans', sans-serif;">Australia Pacific Training Coalition: Lessons from a Long-Running Global Skill Partnership</strong>, 2026
+  <strong style="font-weight:700; font-family:'Open Sans', sans-serif;">Australia Pacific Training Coalition: A Case Study of a Flagship Global Skill Partnership</strong> with Lova Jansson and Pablo Acosta, 2026
 (<a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099840511052680241" target="_blank" rel="noopener noreferrer">WB Discussion Paper</a>)
 <br>
 <u>Short Abstract:</u> This paper examines 18 years of the Australia Pacific Training Coalition, a regional TVET-strengthening initiative that supported improved skills development and labor mobility across the Pacific. It reviews the program’s evolution, governance, training and migration services, monitoring and evaluation, and financing, drawing lessons for the design and implementation of future Global Skill Partnerships.
