@@ -591,13 +591,15 @@ BUTTON DEFAULTS
       align-items: stretch;
     }
 
-    .pageTitle {
-      color: $primary-color;
-      font-weight: 300;
-      justify-content: center;
-      margin: 20;
-    }
-
+.pageTitle {
+color: $primary-color;
+font-weight: 300;
+justify-content: center;
+margin: 30px;
+font-size: 40px;
+line-height: 1.2;
+}
+	  
     > div {
       padding: 20px;
 
