@@ -60,6 +60,13 @@ title: Research
   <u>Short Abstract:</u> Amid rapid labor market changes and aging workforces, countries need institutionalized programs and services that support lifelong skill development and utilization, from the school-to-work transition through adulthood. This technical note presents a conceptual framework for building skills systems that promote lifelong learning and employment for adults and out-of-school youth, alongside a review of relevant literature and examples from countries at varying stages of economic development.
 </p>
 
+<p>
+<strong style="font-weight:700; font-family:'Open Sans', sans-serif;">Australia Pacific Training Coalition: Lessons from a Long-Running Global Skill Partnership</strong>, 2026
+(<a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099840511052680241" target="_blank" rel="noopener noreferrer">WB Discussion Paper</a>)
+<br>
+<u>Short Abstract:</u> This paper examines 18 years of the Australia Pacific Training Coalition, a regional TVET-strengthening initiative that supported improved skills development and labor mobility across the Pacific. It reviews the program’s evolution, governance, training and migration services, monitoring and evaluation, and financing, drawing lessons for the design and implementation of future Global Skill Partnerships.
+</p>
+
 <strong style="font-size:24px;"> Works in Progress </strong>
 
 <p>
